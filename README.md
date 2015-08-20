@@ -1,2 +1,2 @@
 # mylife
-just a test for node
+just a test
